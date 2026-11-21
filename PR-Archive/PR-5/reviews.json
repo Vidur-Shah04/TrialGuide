@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5712509926,
+    "node_id": "PRR_kwDOVMPfK88AAAABVH375g",
+    "user": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?u=c9f7f79c3b3b0d5277d1049559745078c22e9edf&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/5#pullrequestreview-5712509926",
+    "pull_request_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/5",
+    "author_association": "COLLABORATOR",
+    "is_copilot_code_review": false,
+    "copilot_code_review_effort": null,
+    "_links": {
+      "html": {
+        "href": "https://github.com/Pakkabhabad18/trialguide/pull/5#pullrequestreview-5712509926"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/5"
+      }
+    },
+    "submitted_at": "2026-10-30T12:52:22Z",
+    "commit_id": "f100881fa769ed6516aa6a891ddafb60693198f4"
+  }
+]

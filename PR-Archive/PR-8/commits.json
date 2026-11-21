@@ -1,0 +1,345 @@
+[
+  {
+    "sha": "f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+    "node_id": "C_kwDOVMPfK9oAKGYyYzEzYmMyMzVlNmYyOWMxOTgzOWFhMzU0M2FhMGYwNzNiZDM4Zjc",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T19:51:37Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T19:51:37Z"
+      },
+      "message": "Merge main into T8-split",
+      "tree": {
+        "sha": "a2b8b56133a6f832aca6988bd3fe0be3d756b34f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/a2b8b56133a6f832aca6988bd3fe0be3d756b34f"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f2c13bc235e6f29c19839aa3543aa0f073bd38f7/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b4ee13a12fd0c85657f0bbfd5cb7cf3926b159d1",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/b4ee13a12fd0c85657f0bbfd5cb7cf3926b159d1",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/b4ee13a12fd0c85657f0bbfd5cb7cf3926b159d1"
+      },
+      {
+        "sha": "ffbb5a5ac3b348b8461104e8f6b08f5fa1dce9a1",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ffbb5a5ac3b348b8461104e8f6b08f5fa1dce9a1",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/ffbb5a5ac3b348b8461104e8f6b08f5fa1dce9a1"
+      }
+    ]
+  },
+  {
+    "sha": "605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+    "node_id": "C_kwDOVMPfK9oAKDYwNWE2ZGYwNmVlYjFhN2FkYzcxODBhOWYwNjhkODdmMzM0ZTcxZjY",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T19:53:31Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T19:53:31Z"
+      },
+      "message": "T8: frozen 37/73/73 patient split, leakage checklist, decisions M7-M9",
+      "tree": {
+        "sha": "be96d972736753727fa220dc9fd49093f7f87ee8",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/be96d972736753727fa220dc9fd49093f7f87ee8"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/605a6df06eeb1a7adc7180a9f068d87f334e71f6/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f2c13bc235e6f29c19839aa3543aa0f073bd38f7",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f2c13bc235e6f29c19839aa3543aa0f073bd38f7"
+      }
+    ]
+  },
+  {
+    "sha": "d386fa75febae50215abe7fe0ed8eff339b7bf54",
+    "node_id": "C_kwDOVMPfK9oAKGQzODZmYTc1ZmViYWU1MDIxNWFiZTdmZTBlZDhlZmYzMzliN2JmNTQ",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:06:03Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:06:03Z"
+      },
+      "message": "Merge T7-label-audit into T8-split; drop decision log, make comments self-contained",
+      "tree": {
+        "sha": "63370e22fa2035014f32f5ddf6fb5aeaebd267d4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/63370e22fa2035014f32f5ddf6fb5aeaebd267d4"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/d386fa75febae50215abe7fe0ed8eff339b7bf54",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/d386fa75febae50215abe7fe0ed8eff339b7bf54",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/d386fa75febae50215abe7fe0ed8eff339b7bf54",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/d386fa75febae50215abe7fe0ed8eff339b7bf54/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/605a6df06eeb1a7adc7180a9f068d87f334e71f6",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/605a6df06eeb1a7adc7180a9f068d87f334e71f6"
+      },
+      {
+        "sha": "f9d0f02f33d9f9095a6d15480e2f74caf3ff8922",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f9d0f02f33d9f9095a6d15480e2f74caf3ff8922",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f9d0f02f33d9f9095a6d15480e2f74caf3ff8922"
+      }
+    ]
+  },
+  {
+    "sha": "a9f23d2507bc83600506488081e7e3b111ec17e2",
+    "node_id": "C_kwDOVMPfK9oAKGE5ZjIzZDI1MDdiYzgzNjAwNTA2NDg4MDgxZTdlM2IxMTFlYzE3ZTI",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:06:29Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:06:29Z"
+      },
+      "message": "Merge T7-label-audit into T8-split",
+      "tree": {
+        "sha": "63370e22fa2035014f32f5ddf6fb5aeaebd267d4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/63370e22fa2035014f32f5ddf6fb5aeaebd267d4"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/a9f23d2507bc83600506488081e7e3b111ec17e2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a9f23d2507bc83600506488081e7e3b111ec17e2",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/a9f23d2507bc83600506488081e7e3b111ec17e2",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a9f23d2507bc83600506488081e7e3b111ec17e2/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d386fa75febae50215abe7fe0ed8eff339b7bf54",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/d386fa75febae50215abe7fe0ed8eff339b7bf54",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/d386fa75febae50215abe7fe0ed8eff339b7bf54"
+      },
+      {
+        "sha": "14751acc5448de456b5710b5c0e42e3fbbc05a2b",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/14751acc5448de456b5710b5c0e42e3fbbc05a2b",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/14751acc5448de456b5710b5c0e42e3fbbc05a2b"
+      }
+    ]
+  }
+]

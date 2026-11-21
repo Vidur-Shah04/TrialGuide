@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "06498726d26c617cfcbcf359265fa75568ddbff1",
+    "node_id": "C_kwDOVMPfK9oAKDA2NDk4NzI2ZDI2YzYxN2NmY2JjZjM1OTI2NWZhNzU1NjhkZGJmZjE",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T05:38:46Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T05:38:46Z"
+      },
+      "message": "T36: H1 and H2 verdicts and McNemar tests from the saved test run\n\nBoth verdicts are inconclusive: B7 gains 3.2 points of recovery over B4 (CI -0.1 to +10.6), and its\nharmful-inference rate is 3.9% (CI 1.3 to 7.4) against the 5% target and is not lower than B5.\nRisk control barely binds with 26 calibration patients.",
+      "tree": {
+        "sha": "d68ef60b708bf14c4dc0bc071929b09c64507e1e",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/d68ef60b708bf14c4dc0bc071929b09c64507e1e"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/06498726d26c617cfcbcf359265fa75568ddbff1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/06498726d26c617cfcbcf359265fa75568ddbff1",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/06498726d26c617cfcbcf359265fa75568ddbff1",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/06498726d26c617cfcbcf359265fa75568ddbff1/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8eea57ce12748730ecdfe6bcb2557db88f7e7f9f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/8eea57ce12748730ecdfe6bcb2557db88f7e7f9f",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/8eea57ce12748730ecdfe6bcb2557db88f7e7f9f"
+      }
+    ]
+  }
+]

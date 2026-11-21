@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893067868",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/41#issuecomment-6893067868",
+    "issue_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/41",
+    "id": 6893067868,
+    "node_id": "IC_kwDOVMPfK88AAAABmtveXA",
+    "user": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-11-15T10:36:13Z",
+    "updated_at": "2026-11-15T10:36:13Z",
+    "body": "Reviewed. trialguide.eval.verdicts reproduces verdicts.json exactly, it uses the shared h1_verdict / h2_verdict from eval/stats.py, and all tests pass (380). Two small things:\r\n\r\nThe H1 verdict bullet is hard to read (“H1 is not supported” and then “It is not ‘not supported’”). Suggest: “Verdict: inconclusive. The estimate (+3.2 points) is well below the 10-point target, but the upper end of the CI (10.6) is just above 10, so the proposal’s rule does not allow calling it ‘not supported’.”\r\nIn the H2 paired table, note that on the Kaggle run the uncorrected tuned threshold (0.562) equals the Kaggle λ̂, so on that run the conformal correction changed nothing; that is the same point as “risk control barely binds”.\r\nApproving.",
+    "author_association": "OWNER",
+    "reactions": {
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893067868/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

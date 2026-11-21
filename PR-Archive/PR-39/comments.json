@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893051126",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/39#issuecomment-6893051126",
+    "issue_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/39",
+    "id": 6893051126,
+    "node_id": "IC_kwDOVMPfK88AAAABmtuc9g",
+    "user": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-11-15T10:34:37Z",
+    "updated_at": "2026-11-15T10:34:37Z",
+    "body": "Reviewed. The resplit analysis reproduces exactly from the committed checks (I re-ran trialguide.eval.resplits on them and got the same summary), and tests pass. The README is clear about the Kaggle re-run not matching the cluster run. Two suggestions:\r\n\r\nThe λ̂ shift from 0.766 to 0.562 on the same frozen commit is a finding in itself (risk control is sensitive to small numeric differences between machines with only 26 calibration patients). It deserves a line in the top-level README results, not only here.\r\nIn “How to read this”, say plainly that on the Kaggle checks λ̂ = 0.562 is the lowest candidate, i.e. it accepts every inference, so the conformal step does not bind on this run. The verdicts README says it; this one should too.\r\nApproving.",
+    "author_association": "OWNER",
+    "reactions": {
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893051126/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

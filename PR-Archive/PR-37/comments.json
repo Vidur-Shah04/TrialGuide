@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893187830",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/37#issuecomment-6893187830",
+    "issue_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/37",
+    "id": 6893187830,
+    "node_id": "IC_kwDOVMPfK88AAAABmt2y9g",
+    "user": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-11-15T10:47:13Z",
+    "updated_at": "2026-11-15T10:47:13Z",
+    "body": "Thanks Murthy. Your wording for the doctor check and the “Not run” list is now in the final README (the PR with the E1 results), so I’m closing this one to avoid the conflict. I dropped “exploratory resplits” from the list since #39 ran them.",
+    "author_association": "OWNER",
+    "reactions": {
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/issues/comments/6893187830/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

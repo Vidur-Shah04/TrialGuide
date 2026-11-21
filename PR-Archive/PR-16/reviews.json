@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5716727822,
+    "node_id": "PRR_kwDOVMPfK88AAAABVL5YDg",
+    "user": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "sgtm, Approving",
+    "state": "APPROVED",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/16#pullrequestreview-5716727822",
+    "pull_request_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/16",
+    "author_association": "COLLABORATOR",
+    "is_copilot_code_review": false,
+    "copilot_code_review_effort": null,
+    "_links": {
+      "html": {
+        "href": "https://github.com/Pakkabhabad18/trialguide/pull/16#pullrequestreview-5716727822"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/16"
+      }
+    },
+    "submitted_at": "2026-10-30T18:16:05Z",
+    "commit_id": "0103a8b78c79bd3efb3cc42fda2466494ce21d42"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "sha": "541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+    "node_id": "C_kwDOVMPfK9oAKDU0MWYwYTIwMTJjZjEzMTZkMDJkN2ZjOGFmNWE4MmJiOTY4NjA0YmY",
+    "commit": {
+      "author": {
+        "name": "Vidur-Shah04",
+        "email": "23bt04198@gsfcuniversity.ac.in",
+        "date": "2026-10-30T15:27:51Z"
+      },
+      "committer": {
+        "name": "Vidur-Shah04",
+        "email": "23bt04198@gsfcuniversity.ac.in",
+        "date": "2026-10-30T15:27:51Z"
+      },
+      "message": "T12: preserve fact keys for inferred results",
+      "tree": {
+        "sha": "6ff048d3545ae84365cf1bdbcc6f220404d32403",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/6ff048d3545ae84365cf1bdbcc6f220404d32403"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/541f0a2012cf1316d02d7fc8af5a82bb968604bf/comments",
+    "author": {
+      "login": "Vidur-Shah04",
+      "id": 150236105,
+      "node_id": "U_kgDOCPRryQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150236105?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Vidur-Shah04",
+      "html_url": "https://github.com/Vidur-Shah04",
+      "followers_url": "https://api.github.com/users/Vidur-Shah04/followers",
+      "following_url": "https://api.github.com/users/Vidur-Shah04/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Vidur-Shah04/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Vidur-Shah04/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Vidur-Shah04/subscriptions",
+      "organizations_url": "https://api.github.com/users/Vidur-Shah04/orgs",
+      "repos_url": "https://api.github.com/users/Vidur-Shah04/repos",
+      "events_url": "https://api.github.com/users/Vidur-Shah04/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Vidur-Shah04/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Vidur-Shah04",
+      "id": 150236105,
+      "node_id": "U_kgDOCPRryQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150236105?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Vidur-Shah04",
+      "html_url": "https://github.com/Vidur-Shah04",
+      "followers_url": "https://api.github.com/users/Vidur-Shah04/followers",
+      "following_url": "https://api.github.com/users/Vidur-Shah04/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Vidur-Shah04/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Vidur-Shah04/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Vidur-Shah04/subscriptions",
+      "organizations_url": "https://api.github.com/users/Vidur-Shah04/orgs",
+      "repos_url": "https://api.github.com/users/Vidur-Shah04/repos",
+      "events_url": "https://api.github.com/users/Vidur-Shah04/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Vidur-Shah04/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "68c96bb6bb02abfaf1dc66d1876b027580b7044f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/68c96bb6bb02abfaf1dc66d1876b027580b7044f",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/68c96bb6bb02abfaf1dc66d1876b027580b7044f"
+      }
+    ]
+  },
+  {
+    "sha": "ea7a450458079129afb224768e8514e0ed7ec312",
+    "node_id": "C_kwDOVMPfK9oAKGVhN2E0NTA0NTgwNzkxMjlhZmIyMjQ3NjhlODUxNGUwZWQ3ZWMzMTI",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:43:50Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:43:50Z"
+      },
+      "message": "Merge remote-tracking branch 'origin/main' into t12-fact-key-followup\n\n# Conflicts:\n#\ttests/test_rule_checker.py",
+      "tree": {
+        "sha": "203b68109cae41b7c7f9819e3c908eacf6e2767c",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/203b68109cae41b7c7f9819e3c908eacf6e2767c"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/ea7a450458079129afb224768e8514e0ed7ec312",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ea7a450458079129afb224768e8514e0ed7ec312",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/ea7a450458079129afb224768e8514e0ed7ec312",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ea7a450458079129afb224768e8514e0ed7ec312/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/541f0a2012cf1316d02d7fc8af5a82bb968604bf",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/541f0a2012cf1316d02d7fc8af5a82bb968604bf"
+      },
+      {
+        "sha": "23d0de6ace79f994cd2dbaddf210ff0432ccf0b4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/23d0de6ace79f994cd2dbaddf210ff0432ccf0b4",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/23d0de6ace79f994cd2dbaddf210ff0432ccf0b4"
+      }
+    ]
+  }
+]

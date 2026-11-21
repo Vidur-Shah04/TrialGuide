@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "6ad5ac1c9f9062b50834c0c01d7b57d3e544dd13",
+    "node_id": "C_kwDOVMPfK9oAKDZhZDVhYzFjOWY5MDYyYjUwODM0YzBjMDFkN2I1N2QzZTU0NGRkMTM",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T17:26:35Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T17:26:35Z"
+      },
+      "message": "T38 (exploratory): E2 recalibration on the smoke run, with a leave-one-out check\n\nWith 10 patients alpha 5% and 2% cannot be certified; at 10% the threshold is 0.992 against the frozen\n0.766. Model-derived reference, six harmful events in total, no held-out E2 set.",
+      "tree": {
+        "sha": "b2b313988a04f43308552328c727efd0c2f50e9c",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/b2b313988a04f43308552328c727efd0c2f50e9c"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/6ad5ac1c9f9062b50834c0c01d7b57d3e544dd13",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6ad5ac1c9f9062b50834c0c01d7b57d3e544dd13",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/6ad5ac1c9f9062b50834c0c01d7b57d3e544dd13",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6ad5ac1c9f9062b50834c0c01d7b57d3e544dd13/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "673e8b481600f044f407fec08981b7b45eefac85",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/673e8b481600f044f407fec08981b7b45eefac85",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/673e8b481600f044f407fec08981b7b45eefac85"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5905718458,
+    "node_id": "PRR_kwDOVMPfK88AAAABYAIcug",
+    "user": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?u=0e5e516d3b8fd01ad8f25c1e97e39342435822dc&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/27#pullrequestreview-5905718458",
+    "pull_request_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/27",
+    "author_association": "OWNER",
+    "is_copilot_code_review": false,
+    "copilot_code_review_effort": null,
+    "_links": {
+      "html": {
+        "href": "https://github.com/Pakkabhabad18/trialguide/pull/27#pullrequestreview-5905718458"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/27"
+      }
+    },
+    "submitted_at": "2026-11-14T16:13:08Z",
+    "commit_id": "762cf03b8a0bf036b90862aa5810315a7bd18017"
+  }
+]

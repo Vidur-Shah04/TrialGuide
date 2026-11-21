@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "f5dd21f224322fb497415ea702cdff2aa537c065",
+    "node_id": "C_kwDOVMPfK9oAKGY1ZGQyMWYyMjQzMjJmYjQ5NzQxNWVhNzAyY2RmZjJhYTUzN2MwNjU",
+    "commit": {
+      "author": {
+        "name": "Prakash Bhabad",
+        "email": "84239172+Pakkabhabad18@users.noreply.github.com",
+        "date": "2026-11-15T10:43:34Z"
+      },
+      "committer": {
+        "name": "Prakash Bhabad",
+        "email": "84239172+Pakkabhabad18@users.noreply.github.com",
+        "date": "2026-11-15T10:43:34Z"
+      },
+      "message": "E1 results (run by Vidur on Kaggle) and final README: E1, B7-keyfix, hypothesis verdicts, resplits, reference audit; includes Murthy's wording from #37",
+      "tree": {
+        "sha": "a9e7b44c9b0c01941bde3c0718794fb98b54a7a1",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/a9e7b44c9b0c01941bde3c0718794fb98b54a7a1"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/f5dd21f224322fb497415ea702cdff2aa537c065",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f5dd21f224322fb497415ea702cdff2aa537c065",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f5dd21f224322fb497415ea702cdff2aa537c065",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f5dd21f224322fb497415ea702cdff2aa537c065/comments",
+    "author": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9d37257db0bf8283b17f959ae870d9e9f10d5281",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/9d37257db0bf8283b17f959ae870d9e9f10d5281",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/9d37257db0bf8283b17f959ae870d9e9f10d5281"
+      }
+    ]
+  }
+]
