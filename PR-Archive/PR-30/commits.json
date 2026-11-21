@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "4d696d6045592a4dbca2a50fdf3f57a58bff1fab",
+    "node_id": "C_kwDOVMPfK9oAKDRkNjk2ZDYwNDU1OTJhNGRiY2EyYTUwZmRmM2Y1N2E1OGJmZjFmYWI",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-14T14:03:33Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-14T14:03:33Z"
+      },
+      "message": "Dev run: B7/A1/A5/A6 rerun with the answerability-weighted selector, and rule recovery",
+      "tree": {
+        "sha": "e3a577b7729be84f3a1a2bbed73e2c7cfcff7215",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/e3a577b7729be84f3a1a2bbed73e2c7cfcff7215"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/4d696d6045592a4dbca2a50fdf3f57a58bff1fab",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/4d696d6045592a4dbca2a50fdf3f57a58bff1fab",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/4d696d6045592a4dbca2a50fdf3f57a58bff1fab",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/4d696d6045592a4dbca2a50fdf3f57a58bff1fab/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "29b9cf42a4c3b24dddff8d209eae268b4b4dd36c",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/29b9cf42a4c3b24dddff8d209eae268b4b4dd36c",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/29b9cf42a4c3b24dddff8d209eae268b4b4dd36c"
+      }
+    ]
+  }
+]

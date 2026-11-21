@@ -1,0 +1,86 @@
+[
+  {
+    "id": 5683612643,
+    "node_id": "PRR_kwDOVMPfK88AAAABUsUL4w",
+    "user": {
+      "login": "Vidur-Shah04",
+      "id": 150236105,
+      "node_id": "U_kgDOCPRryQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150236105?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Vidur-Shah04",
+      "html_url": "https://github.com/Vidur-Shah04",
+      "followers_url": "https://api.github.com/users/Vidur-Shah04/followers",
+      "following_url": "https://api.github.com/users/Vidur-Shah04/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Vidur-Shah04/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Vidur-Shah04/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Vidur-Shah04/subscriptions",
+      "organizations_url": "https://api.github.com/users/Vidur-Shah04/orgs",
+      "repos_url": "https://api.github.com/users/Vidur-Shah04/repos",
+      "events_url": "https://api.github.com/users/Vidur-Shah04/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Vidur-Shah04/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "The MET convention is consistent with the checker: MET means the rule condition holds, including for exclusion rules. Please record this convention in the shared decision log so the selector and downstream components use the same semantics.",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/3#pullrequestreview-5683612643",
+    "pull_request_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/3",
+    "author_association": "COLLABORATOR",
+    "is_copilot_code_review": false,
+    "copilot_code_review_effort": null,
+    "_links": {
+      "html": {
+        "href": "https://github.com/Pakkabhabad18/trialguide/pull/3#pullrequestreview-5683612643"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/3"
+      }
+    },
+    "submitted_at": "2026-10-28T13:43:36Z",
+    "commit_id": "53a070e8bd7d02f87525ab6dd46800396e2da66a"
+  },
+  {
+    "id": 5684226485,
+    "node_id": "PRR_kwDOVMPfK88AAAABUs5ptQ",
+    "user": {
+      "login": "Vidur-Shah04",
+      "id": 150236105,
+      "node_id": "U_kgDOCPRryQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150236105?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Vidur-Shah04",
+      "html_url": "https://github.com/Vidur-Shah04",
+      "followers_url": "https://api.github.com/users/Vidur-Shah04/followers",
+      "following_url": "https://api.github.com/users/Vidur-Shah04/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Vidur-Shah04/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Vidur-Shah04/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Vidur-Shah04/subscriptions",
+      "organizations_url": "https://api.github.com/users/Vidur-Shah04/orgs",
+      "repos_url": "https://api.github.com/users/Vidur-Shah04/repos",
+      "events_url": "https://api.github.com/users/Vidur-Shah04/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Vidur-Shah04/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "Reviewed the shared schema and tests. Core rule semantics, evidence requirements, harmful-inference logic, doctor-answer validation, and question-budget enforcement are consistent with the project design. Follow-ups: clarify evaluation handling of NOT_ENOUGH_INFO and ensure design decisions are recorded in the shared decision log through the planned merge sequence.",
+    "state": "APPROVED",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/pull/3#pullrequestreview-5684226485",
+    "pull_request_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/3",
+    "author_association": "COLLABORATOR",
+    "is_copilot_code_review": false,
+    "copilot_code_review_effort": null,
+    "_links": {
+      "html": {
+        "href": "https://github.com/Pakkabhabad18/trialguide/pull/3#pullrequestreview-5684226485"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/Pakkabhabad18/trialguide/pulls/3"
+      }
+    },
+    "submitted_at": "2026-10-28T14:24:17Z",
+    "commit_id": "53a070e8bd7d02f87525ab6dd46800396e2da66a"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "sha": "6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+    "node_id": "C_kwDOVMPfK9oAKDYwNTVhNTBkYzVjZTkwMGRiYTZlZTVkNzA0NzZkZDUwYmFmOTZhMzI",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T12:20:18Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T12:20:18Z"
+      },
+      "message": "T38 (exploratory): E2 smoke run of the frozen system on 10 calibration-half case reports\n\nChecker-only run (full note and 40% rule mask, top 2 trials per patient, B6/B2/B5) with the full-note\nchecker as the reference; no recalibration, no doctor, no gold labels.",
+      "tree": {
+        "sha": "83014822601c289b27b24afe88544bacbff2cffd",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/83014822601c289b27b24afe88544bacbff2cffd"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6055a50dc5ce900dba6ee5d70476dd50baf96a32/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e48d6cd66ee596ea1a152b14e2e43cc9ccfacbd0",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/e48d6cd66ee596ea1a152b14e2e43cc9ccfacbd0",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/e48d6cd66ee596ea1a152b14e2e43cc9ccfacbd0"
+      }
+    ]
+  },
+  {
+    "sha": "673e8b481600f044f407fec08981b7b45eefac85",
+    "node_id": "C_kwDOVMPfK9oAKDY3M2U4YjQ4MTYwMGYwNDRmNDA3ZmVjMDg5ODFiN2I0NWVlZmFjODU",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T13:43:34Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T13:43:34Z"
+      },
+      "message": "T38 (exploratory): E2 smoke run results, and a merge command for the per-GPU parts\n\n10 calibration-half case reports, top 2 trials each, 40% mask, B6/B2/B5 against the full-note checker.\nNot the planned E2 evaluation: no recalibration, no doctor, no gold labels.",
+      "tree": {
+        "sha": "84b3351671fbf7f6ff2a64c77c0e73fb358c8462",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/84b3351671fbf7f6ff2a64c77c0e73fb358c8462"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/673e8b481600f044f407fec08981b7b45eefac85",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/673e8b481600f044f407fec08981b7b45eefac85",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/673e8b481600f044f407fec08981b7b45eefac85",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/673e8b481600f044f407fec08981b7b45eefac85/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6055a50dc5ce900dba6ee5d70476dd50baf96a32",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/6055a50dc5ce900dba6ee5d70476dd50baf96a32"
+      }
+    ]
+  }
+]

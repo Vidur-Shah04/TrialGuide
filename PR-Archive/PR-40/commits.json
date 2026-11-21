@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "a7643141114a626281a9d0143e6cd31f11f75b60",
+    "node_id": "C_kwDOVMPfK9oAKGE3NjQzMTQxMTE0YTYyNjI4MWE5ZDAxNDNlNmNkMzFmMTFmNzViNjA",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T04:56:24Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-15T04:56:24Z"
+      },
+      "message": "T44/T45: automatic comparison of the full-note checker with the experts\n\nAgreement of the model-derived full-note reference with the expert labels, and precision/recall of\nthe cited sentences against the expert evidence sentences, with patient-level bootstrap CIs.\nDescriptive and post-hoc; the human checks of the plan (200-rule audit, 50-inference hand check)\nare not done.",
+      "tree": {
+        "sha": "80782cbe8dd664c0bb0bd5dc92a60b23d382913f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/80782cbe8dd664c0bb0bd5dc92a60b23d382913f"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/a7643141114a626281a9d0143e6cd31f11f75b60",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a7643141114a626281a9d0143e6cd31f11f75b60",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/a7643141114a626281a9d0143e6cd31f11f75b60",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a7643141114a626281a9d0143e6cd31f11f75b60/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f6ee16f78f48008f870bfa5c5897ebd6fa0a089f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f6ee16f78f48008f870bfa5c5897ebd6fa0a089f",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f6ee16f78f48008f870bfa5c5897ebd6fa0a089f"
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "445f3295ef71409b3cdcb7a681c30696f055710e",
+    "node_id": "C_kwDOVMPfK9oAKDQ0NWYzMjk1ZWY3MTQwOWIzY2RjYjdhNjgxYzMwNjk2ZjA1NTcxMGU",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-14T19:05:44Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-11-14T19:05:44Z"
+      },
+      "message": "README: describe the doctor check as done; list the planned items that were not run\n\nThe doctor check was drafted by a different model and reviewed by a teammate, not\nanswered by a teammate alone. Not run: 20%/60% test masking runs, the exploratory\nresplits, and the planned human annotation and hand checks.",
+      "tree": {
+        "sha": "3df24d38fdfdb7c3e24340a16490baefd1bf331d",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/3df24d38fdfdb7c3e24340a16490baefd1bf331d"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/445f3295ef71409b3cdcb7a681c30696f055710e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/445f3295ef71409b3cdcb7a681c30696f055710e",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/445f3295ef71409b3cdcb7a681c30696f055710e",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/445f3295ef71409b3cdcb7a681c30696f055710e/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f6ee16f78f48008f870bfa5c5897ebd6fa0a089f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f6ee16f78f48008f870bfa5c5897ebd6fa0a089f",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f6ee16f78f48008f870bfa5c5897ebd6fa0a089f"
+      }
+    ]
+  }
+]

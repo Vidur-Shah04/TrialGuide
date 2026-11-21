@@ -1,0 +1,1324 @@
+[
+  {
+    "sha": "030ab5f93eb358aefc21307efc47c63fa2f453d4",
+    "node_id": "C_kwDOVMPfK9oAKDAzMGFiNWY5M2ViMzU4YWVmYzIxMzA3ZWZjNDdjNjNmYTJmNDUzZDQ",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:18:32Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:18:32Z"
+      },
+      "message": "Mid-submission report: plainer prose, cite every reference, update stale items (ids removed, 233 tests, timeline)",
+      "tree": {
+        "sha": "31b2fd5e3ceff7fc844021bc5b76ea4e7920748e",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/31b2fd5e3ceff7fc844021bc5b76ea4e7920748e"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/030ab5f93eb358aefc21307efc47c63fa2f453d4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/030ab5f93eb358aefc21307efc47c63fa2f453d4",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/030ab5f93eb358aefc21307efc47c63fa2f453d4",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/030ab5f93eb358aefc21307efc47c63fa2f453d4/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5fbf97bc9fa645c631a9c55bcf3f30f325bf33b0",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5fbf97bc9fa645c631a9c55bcf3f30f325bf33b0",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/5fbf97bc9fa645c631a9c55bcf3f30f325bf33b0"
+      }
+    ]
+  },
+  {
+    "sha": "608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+    "node_id": "C_kwDOVMPfK9oAKDYwODE3M2VlYzMyZTNkY2EyN2M1ZTdhMGU5NjdmZGJlNTA5MTdkZGM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:49:29Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:49:29Z"
+      },
+      "message": "Merge remote-tracking branch 'origin/main' into prateek",
+      "tree": {
+        "sha": "31b2fd5e3ceff7fc844021bc5b76ea4e7920748e",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/31b2fd5e3ceff7fc844021bc5b76ea4e7920748e"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/608173eec32e3dca27c5e7a0e967fdbe50917ddc/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "030ab5f93eb358aefc21307efc47c63fa2f453d4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/030ab5f93eb358aefc21307efc47c63fa2f453d4",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/030ab5f93eb358aefc21307efc47c63fa2f453d4"
+      },
+      {
+        "sha": "23d0de6ace79f994cd2dbaddf210ff0432ccf0b4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/23d0de6ace79f994cd2dbaddf210ff0432ccf0b4",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/23d0de6ace79f994cd2dbaddf210ff0432ccf0b4"
+      }
+    ]
+  },
+  {
+    "sha": "f5f13e1da0870c44b14f03340a0659b9ae30af47",
+    "node_id": "C_kwDOVMPfK9oAKGY1ZjEzZTFkYTA4NzBjNDRiMTRmMDMzNDBhMDY1OWI5YWUzMGFmNDc",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:51:36Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:51:36Z"
+      },
+      "message": "B7, A2, A3 (and B3, B4) on one GPU: checker and doctor take turns in rounds, conversations replayed from the cache",
+      "tree": {
+        "sha": "0222c73629bf49490023c1f1b4e5d28fbc973024",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/0222c73629bf49490023c1f1b4e5d28fbc973024"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/f5f13e1da0870c44b14f03340a0659b9ae30af47",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f5f13e1da0870c44b14f03340a0659b9ae30af47",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f5f13e1da0870c44b14f03340a0659b9ae30af47",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f5f13e1da0870c44b14f03340a0659b9ae30af47/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/608173eec32e3dca27c5e7a0e967fdbe50917ddc",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/608173eec32e3dca27c5e7a0e967fdbe50917ddc"
+      }
+    ]
+  },
+  {
+    "sha": "f678a9c2c4b2f39460475ba6733951ea8ade5833",
+    "node_id": "C_kwDOVMPfK9oAKGY2NzhhOWMyYzRiMmYzOTQ2MDQ3NWJhNjczMzk1MWVhOGFkZTU4MzM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:52:00Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T16:52:00Z"
+      },
+      "message": "run_asking.sh: alternate checker and doctor rounds until every conversation finishes",
+      "tree": {
+        "sha": "f720598f5d4365ecea98e6281ba76cacfb6f6dd2",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/f720598f5d4365ecea98e6281ba76cacfb6f6dd2"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/f678a9c2c4b2f39460475ba6733951ea8ade5833",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f678a9c2c4b2f39460475ba6733951ea8ade5833",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f678a9c2c4b2f39460475ba6733951ea8ade5833",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f678a9c2c4b2f39460475ba6733951ea8ade5833/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5f13e1da0870c44b14f03340a0659b9ae30af47",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f5f13e1da0870c44b14f03340a0659b9ae30af47",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f5f13e1da0870c44b14f03340a0659b9ae30af47"
+      }
+    ]
+  },
+  {
+    "sha": "8d98617a30e08c62d299356d992a77c7027f1f16",
+    "node_id": "C_kwDOVMPfK9oAKDhkOTg2MTdhMzBlMDhjNjJkMjk5MzU2ZDk5MmE3N2M3MDI3ZjFmMTY",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T17:01:32Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T17:01:32Z"
+      },
+      "message": "Report: B7, A2, A3 running with the doctor in rounds; statuses after the merges of #12 and #13",
+      "tree": {
+        "sha": "6b97a4fd2f864c4f48516fa5c60e58c51340efd0",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/6b97a4fd2f864c4f48516fa5c60e58c51340efd0"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/8d98617a30e08c62d299356d992a77c7027f1f16",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/8d98617a30e08c62d299356d992a77c7027f1f16",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/8d98617a30e08c62d299356d992a77c7027f1f16",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/8d98617a30e08c62d299356d992a77c7027f1f16/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f678a9c2c4b2f39460475ba6733951ea8ade5833",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/f678a9c2c4b2f39460475ba6733951ea8ade5833",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/f678a9c2c4b2f39460475ba6733951ea8ade5833"
+      }
+    ]
+  },
+  {
+    "sha": "2361b26bcf947622dfaf874e220116b4e2c48b5c",
+    "node_id": "C_kwDOVMPfK9oAKDIzNjFiMjZiY2Y5NDc2MjJkZmFmODc0ZTIyMDExNmI0ZTJjNDhiNWM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T20:12:15Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-10-30T20:12:15Z"
+      },
+      "message": "Report: B7, A2, A3 pilot results with the simulated doctor; 236 tests",
+      "tree": {
+        "sha": "96092f862a08717a4646b86b69a6c0600f543eed",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/96092f862a08717a4646b86b69a6c0600f543eed"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/2361b26bcf947622dfaf874e220116b4e2c48b5c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2361b26bcf947622dfaf874e220116b4e2c48b5c",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/2361b26bcf947622dfaf874e220116b4e2c48b5c",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2361b26bcf947622dfaf874e220116b4e2c48b5c/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8d98617a30e08c62d299356d992a77c7027f1f16",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/8d98617a30e08c62d299356d992a77c7027f1f16",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/8d98617a30e08c62d299356d992a77c7027f1f16"
+      }
+    ]
+  },
+  {
+    "sha": "e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+    "node_id": "C_kwDOVMPfK9oAKGU5Mjk0ZTc3Y2U2MmRjYzY5NzdkNGM4YjllMWY3MDVhZjUyMjdhOWM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:16:20Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:16:20Z"
+      },
+      "message": "Merge origin/main into prateek (T30 risk control)",
+      "tree": {
+        "sha": "497d1bb30a0913f0db0e4c142076ad3d8c2f87f4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/497d1bb30a0913f0db0e4c142076ad3d8c2f87f4"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2361b26bcf947622dfaf874e220116b4e2c48b5c",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2361b26bcf947622dfaf874e220116b4e2c48b5c",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/2361b26bcf947622dfaf874e220116b4e2c48b5c"
+      },
+      {
+        "sha": "6b8504bb501b0f26522eb208153f544f91497ca3",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/6b8504bb501b0f26522eb208153f544f91497ca3",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/6b8504bb501b0f26522eb208153f544f91497ca3"
+      }
+    ]
+  },
+  {
+    "sha": "61ee81b580935bf888db8b10518bdbbcbd3233fc",
+    "node_id": "C_kwDOVMPfK9oAKDYxZWU4MWI1ODA5MzViZjg4OGRiOGIxMDUxOGJkYmJjYmQzMjMzZmM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:19:42Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:19:42Z"
+      },
+      "message": "Checker uses the tools (eGFR, BMI, drug classes) on the visible note; A5 turns them off. Doctor reads the full note. Round runner: A1, A5, A6",
+      "tree": {
+        "sha": "24c03627974a73d6a1354718fe7a141da5091a44",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/24c03627974a73d6a1354718fe7a141da5091a44"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/61ee81b580935bf888db8b10518bdbbcbd3233fc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/61ee81b580935bf888db8b10518bdbbcbd3233fc",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/61ee81b580935bf888db8b10518bdbbcbd3233fc",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/61ee81b580935bf888db8b10518bdbbcbd3233fc/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/e9294e77ce62dcc6977d4c8b9e1f705af5227a9c"
+      }
+    ]
+  },
+  {
+    "sha": "5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+    "node_id": "C_kwDOVMPfK9oAKDVjZDljYTFkMmM1OWI4Mjk0OTIzM2RhMmU4YWJjYjFkMmJmY2M1ODY",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:23:33Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:23:33Z"
+      },
+      "message": "run_asking.sh: optional shared model-call cache",
+      "tree": {
+        "sha": "4a81c819bf443e14e0e2abe6dcfc326fdd6634f8",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/4a81c819bf443e14e0e2abe6dcfc326fdd6634f8"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "61ee81b580935bf888db8b10518bdbbcbd3233fc",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/61ee81b580935bf888db8b10518bdbbcbd3233fc",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/61ee81b580935bf888db8b10518bdbbcbd3233fc"
+      }
+    ]
+  },
+  {
+    "sha": "5fb86789e186074ba16e80679ec8644b3aa13c7b",
+    "node_id": "C_kwDOVMPfK9oAKDVmYjg2Nzg5ZTE4NjA3NGJhMTZlODA2NzllYzg2NDRiM2FhMTNjN2I",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:27:05Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:27:05Z"
+      },
+      "message": "Calibration of lambda on the expert-labelled calibration rules (run_risk.py, with T30); runners take the split from the manifest, test only with --allow-test",
+      "tree": {
+        "sha": "f082f3fd91608f4a1b2e3d8abfffd9330e3e7645",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/f082f3fd91608f4a1b2e3d8abfffd9330e3e7645"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/5fb86789e186074ba16e80679ec8644b3aa13c7b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5fb86789e186074ba16e80679ec8644b3aa13c7b",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/5fb86789e186074ba16e80679ec8644b3aa13c7b",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5fb86789e186074ba16e80679ec8644b3aa13c7b/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/5cd9ca1d2c59b82949233da2e8abcb1d2bfcc586"
+      }
+    ]
+  },
+  {
+    "sha": "ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+    "node_id": "C_kwDOVMPfK9oAKGVmNjAxNzhiZTlhNTE1ZjNlMGRmM2Q5ZmNiYzlhMTRhZWNhZjBiM2U",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:35:55Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T09:35:55Z"
+      },
+      "message": "run_systems: --conditions to run the full and masked notes separately (two GPUs)",
+      "tree": {
+        "sha": "961458844c6db511962c8ac89f57bc67cf2384a0",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/961458844c6db511962c8ac89f57bc67cf2384a0"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5fb86789e186074ba16e80679ec8644b3aa13c7b",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/5fb86789e186074ba16e80679ec8644b3aa13c7b",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/5fb86789e186074ba16e80679ec8644b3aa13c7b"
+      }
+    ]
+  },
+  {
+    "sha": "aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+    "node_id": "C_kwDOVMPfK9oAKGFhMjc3NmE4MWM2NjAwZDU2MTFkNGI2NWQzZjc0YzRkY2IwNDE4NTk",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T14:57:36Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T14:57:36Z"
+      },
+      "message": "Development run: B1-B7 and ablations A1, A2, A3, A5, A6 on all 37 dev patients; lambda calibrated on the calibration split",
+      "tree": {
+        "sha": "3ca04e8f5ec5d5dd6ffbf4678ff001307fbc5478",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/3ca04e8f5ec5d5dd6ffbf4678ff001307fbc5478"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/aa2776a81c6600d5611d4b65d3f74c4dcb041859/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/ef60178be9a515f3e0df3d9fcbc9a14aecaf0b3e"
+      }
+    ]
+  },
+  {
+    "sha": "2548fc356cb1ffa937baae83ad749ec971386f1b",
+    "node_id": "C_kwDOVMPfK9oAKDI1NDhmYzM1NmNiMWZmYTkzN2JhYWU4M2FkNzQ5ZWM5NzEzODZmMWI",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T16:10:45Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T16:10:45Z"
+      },
+      "message": "B7: Eq. 1 weighted by the chance the doctor can answer (prior frozen from dev turns); B7-eq1 keeps the plain Eq. 1",
+      "tree": {
+        "sha": "45538e822809887da001af19d652ab2ea94180d4",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/45538e822809887da001af19d652ab2ea94180d4"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/2548fc356cb1ffa937baae83ad749ec971386f1b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2548fc356cb1ffa937baae83ad749ec971386f1b",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/2548fc356cb1ffa937baae83ad749ec971386f1b",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2548fc356cb1ffa937baae83ad749ec971386f1b/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/aa2776a81c6600d5611d4b65d3f74c4dcb041859",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/aa2776a81c6600d5611d4b65d3f74c4dcb041859"
+      }
+    ]
+  },
+  {
+    "sha": "c250c9538b742e65f93d48bd154129a517ba0553",
+    "node_id": "C_kwDOVMPfK9oAKGMyNTBjOTUzOGI3NDJlNjVmOTNkNDhiZDE1NDEyOWE1MTdiYTA1NTM",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T17:21:07Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T17:21:07Z"
+      },
+      "message": "run_asking: save each rule's final status per system (rule-level recovery)",
+      "tree": {
+        "sha": "4b79631fc9ac490950c4308e667c10d6218cad3e",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/4b79631fc9ac490950c4308e667c10d6218cad3e"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/c250c9538b742e65f93d48bd154129a517ba0553",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/c250c9538b742e65f93d48bd154129a517ba0553",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/c250c9538b742e65f93d48bd154129a517ba0553",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/c250c9538b742e65f93d48bd154129a517ba0553/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2548fc356cb1ffa937baae83ad749ec971386f1b",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/2548fc356cb1ffa937baae83ad749ec971386f1b",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/2548fc356cb1ffa937baae83ad749ec971386f1b"
+      }
+    ]
+  },
+  {
+    "sha": "55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+    "node_id": "C_kwDOVMPfK9oAKDU1YmUzZmVhMWM1MmZlMWNhM2Q5YTk2NjJlYmZiNGViM2FjNzgxNjI",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T17:23:23Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-12T17:23:23Z"
+      },
+      "message": "eval/recovery.py: rule-level recovery of the full-note result, false-eligible rate and ranking agreement, from saved runs",
+      "tree": {
+        "sha": "87c257c5e7438e0f3bc03fa8ce053f3ea94a537f",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/87c257c5e7438e0f3bc03fa8ce053f3ea94a537f"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c250c9538b742e65f93d48bd154129a517ba0553",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/c250c9538b742e65f93d48bd154129a517ba0553",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/c250c9538b742e65f93d48bd154129a517ba0553"
+      }
+    ]
+  },
+  {
+    "sha": "04c68a8d0b4dfce5d67ad50393c7b74bb26e2035",
+    "node_id": "C_kwDOVMPfK9oAKDA0YzY4YThkMGI0ZGZjZTVkNjdhZDUwMzkzYzdiNzRiYjI2ZTIwMzU",
+    "commit": {
+      "author": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-13T13:33:55Z"
+      },
+      "committer": {
+        "name": "Prateeksingh-moa",
+        "email": "prateek.s@research.iiit.ac.in",
+        "date": "2026-11-13T13:33:55Z"
+      },
+      "message": "Test run results: ranking, rule recovery and harmful-inference risk on the frozen system",
+      "tree": {
+        "sha": "8d6f01f61ff53247fc0768144fc59a7c87d40a25",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/8d6f01f61ff53247fc0768144fc59a7c87d40a25"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/04c68a8d0b4dfce5d67ad50393c7b74bb26e2035",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/04c68a8d0b4dfce5d67ad50393c7b74bb26e2035",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/04c68a8d0b4dfce5d67ad50393c7b74bb26e2035",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/04c68a8d0b4dfce5d67ad50393c7b74bb26e2035/comments",
+    "author": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Prateeksingh-moa",
+      "id": 147879595,
+      "node_id": "U_kgDOCNB2qw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147879595?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Prateeksingh-moa",
+      "html_url": "https://github.com/Prateeksingh-moa",
+      "followers_url": "https://api.github.com/users/Prateeksingh-moa/followers",
+      "following_url": "https://api.github.com/users/Prateeksingh-moa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Prateeksingh-moa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Prateeksingh-moa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Prateeksingh-moa/subscriptions",
+      "organizations_url": "https://api.github.com/users/Prateeksingh-moa/orgs",
+      "repos_url": "https://api.github.com/users/Prateeksingh-moa/repos",
+      "events_url": "https://api.github.com/users/Prateeksingh-moa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Prateeksingh-moa/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/55be3fea1c52fe1ca3d9a9662ebfb4eb3ac78162"
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "sha": "009c35136d2acb82461f3a5c891164f5f14b567d",
+    "node_id": "C_kwDOVMPfK9oAKDAwOWMzNTEzNmQyYWNiODI0NjFmM2E1Yzg5MTE2NGY1ZjE0YjU2N2Q",
+    "commit": {
+      "author": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:23:19Z"
+      },
+      "committer": {
+        "name": "murthymetta2002",
+        "email": "murthymetta2002@gmail.com",
+        "date": "2026-10-29T20:23:19Z"
+      },
+      "message": "T10: sentence-level facts and masking (random, rule-targeted, evidence-targeted)\n\nOnly the visible note leaves the masking module. The test split is guarded in\nload_patients, and mask seeds are drawn per split.",
+      "tree": {
+        "sha": "a7ab352703f2313955844b15811f81a4725cced0",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/a7ab352703f2313955844b15811f81a4725cced0"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/009c35136d2acb82461f3a5c891164f5f14b567d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/009c35136d2acb82461f3a5c891164f5f14b567d",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/009c35136d2acb82461f3a5c891164f5f14b567d",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/009c35136d2acb82461f3a5c891164f5f14b567d/comments",
+    "author": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "murthymetta2002",
+      "id": 219176529,
+      "node_id": "U_kgDODRBeUQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219176529?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/murthymetta2002",
+      "html_url": "https://github.com/murthymetta2002",
+      "followers_url": "https://api.github.com/users/murthymetta2002/followers",
+      "following_url": "https://api.github.com/users/murthymetta2002/following{/other_user}",
+      "gists_url": "https://api.github.com/users/murthymetta2002/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/murthymetta2002/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/murthymetta2002/subscriptions",
+      "organizations_url": "https://api.github.com/users/murthymetta2002/orgs",
+      "repos_url": "https://api.github.com/users/murthymetta2002/repos",
+      "events_url": "https://api.github.com/users/murthymetta2002/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/murthymetta2002/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a9f23d2507bc83600506488081e7e3b111ec17e2",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a9f23d2507bc83600506488081e7e3b111ec17e2",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/a9f23d2507bc83600506488081e7e3b111ec17e2"
+      }
+    ]
+  },
+  {
+    "sha": "a01812c2ce0032a7b3112615e5d5153611e78305",
+    "node_id": "C_kwDOVMPfK9oAKGEwMTgxMmMyY2UwMDMyYTdiMzExMjYxNWU1ZDUxNTM2MTFlNzgzMDU",
+    "commit": {
+      "author": {
+        "name": "Prakash Bhabad",
+        "email": "84239172+Pakkabhabad18@users.noreply.github.com",
+        "date": "2026-10-30T11:01:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-30T11:01:56Z"
+      },
+      "message": "Merge branch 'main' into T10-masking",
+      "tree": {
+        "sha": "f17ff5e5c24315487e84bf6d75b9d6cb4a890d30",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/trees/f17ff5e5c24315487e84bf6d75b9d6cb4a890d30"
+      },
+      "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/git/commits/a01812c2ce0032a7b3112615e5d5153611e78305",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq5HkkCRC1aQ7uu5UhlAAAF8EQAG43k8X9oSST/05vt1wFsOKe\n/fqfwpYUdm4xnvPIpVvTT4TWP5Gv2AQwMzfrqMmmzqi21Q+MFi9mF7bSZSh34Ww8\ndwqLc/frUB8AvbS1gSH5BDl/KaKO1fDGIUCD+S03dQSRCcJDc7apDvZwyv4L+dr5\nj6vFvjO0tpGnfJGDmw6GXgAjSuMQuTWz+m/Wj9LQRh9eAM7kSgFLlFCbMfsjDj8w\nYPD/EZeV/kglbnMtT5AVP6L6XAHXg7Q1Iv0jzVGNXwqScaw5t2nCbSDuV7zCE8Wd\nCpsTNVo/MrQjl216qYVKBPC3eNCgiMWDMSbtQfJzadZyJwnea7FAEFBHsjS603yF\nSo7J+6HCOAoVlfOOB7vmNvxHntvx7t/pGu8/T/KaqC4VWutdRF8dFhpAoY5RR1+o\ndfkvr3iM9Za4z8dx6QUaeg2jqHCdumkEjVxiL1/pHm3Mrhh+H+6omS/RLds0qfP+\nm5sE9PvKhvq16rR5uK9j84o+mVR4psez506H2BvLzDwM1GHV9ybDTeXGE9nYvr6n\nZTvry1W9LSU4N6uywplokbiCxOYu8ENgpkRWqvCokzdIE/JzEGkZy3pXbOsCAF+e\nUdyk5jbnkfrpaV3Bg9+Ku2nGFqHqsWTYZ1nQ7Z0+3OFlRHtb7Bg/ec6PAjMW6qxx\nuVz5AilBMLNtnGfSGbzF\n=Qm4Y\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f17ff5e5c24315487e84bf6d75b9d6cb4a890d30\nparent 009c35136d2acb82461f3a5c891164f5f14b567d\nparent dd8d3f748d6aa5e0090cde1ace42d1778c7e030b\nauthor Prakash Bhabad <84239172+Pakkabhabad18@users.noreply.github.com> 1793358116 +0530\ncommitter GitHub <noreply@github.com> 1793358116 +0530\n\nMerge branch 'main' into T10-masking",
+        "verified_at": "2026-10-30T11:01:57Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a01812c2ce0032a7b3112615e5d5153611e78305",
+    "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/a01812c2ce0032a7b3112615e5d5153611e78305",
+    "comments_url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/a01812c2ce0032a7b3112615e5d5153611e78305/comments",
+    "author": {
+      "login": "Pakkabhabad18",
+      "id": 84239172,
+      "node_id": "MDQ6VXNlcjg0MjM5MTcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84239172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Pakkabhabad18",
+      "html_url": "https://github.com/Pakkabhabad18",
+      "followers_url": "https://api.github.com/users/Pakkabhabad18/followers",
+      "following_url": "https://api.github.com/users/Pakkabhabad18/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Pakkabhabad18/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Pakkabhabad18/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Pakkabhabad18/subscriptions",
+      "organizations_url": "https://api.github.com/users/Pakkabhabad18/orgs",
+      "repos_url": "https://api.github.com/users/Pakkabhabad18/repos",
+      "events_url": "https://api.github.com/users/Pakkabhabad18/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Pakkabhabad18/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "009c35136d2acb82461f3a5c891164f5f14b567d",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/009c35136d2acb82461f3a5c891164f5f14b567d",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/009c35136d2acb82461f3a5c891164f5f14b567d"
+      },
+      {
+        "sha": "dd8d3f748d6aa5e0090cde1ace42d1778c7e030b",
+        "url": "https://api.github.com/repos/Pakkabhabad18/trialguide/commits/dd8d3f748d6aa5e0090cde1ace42d1778c7e030b",
+        "html_url": "https://github.com/Pakkabhabad18/trialguide/commit/dd8d3f748d6aa5e0090cde1ace42d1778c7e030b"
+      }
+    ]
+  }
+]
